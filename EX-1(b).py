@@ -8,3 +8,4 @@ print("Height :", height)
 print("Channels :", channels)
 print("Image Size :", size)
 print("Data Type :", datatype)
+
